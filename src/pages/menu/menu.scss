@@ -1,0 +1,21 @@
+page-menu {
+
+	h3{
+		text-align : center;
+	}
+	p{
+		text-align : center;
+	}
+
+	ion-card{
+		cursor: pointer;
+	}
+	.item-md ion-avatar img {
+		width:70px !important;
+		height: 70px !important;
+	}
+
+	.card-title {
+	    font-size: 16px;
+  	}
+}
